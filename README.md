@@ -31,11 +31,11 @@
     
     이아연(judy) : Disk 고정, Disk 변함 ERD 구상, 작성
     
-    김용후(felix) : Cpu, Gpu 고정, Gpu 변화 ERD 구상, 
+    김용후(felix) : Cpu, Gpu 고정, Gpu 변화 ERD 구상, 작성
 #
 ####
 2022-08-09
     
-    작성 
+     
     
 #
