@@ -26,6 +26,7 @@
 ***
 ####
 2022-08-08
+
     심대성(tony) : Node 고정, Node 변함 ERD 구상, 작성
     
     이아연(judy) : Disk 고정, Disk 변함 ERD 구상, 작성
