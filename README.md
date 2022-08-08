@@ -21,3 +21,12 @@
 ***
 ![바로AI 프로젝트 ERD ](https://user-images.githubusercontent.com/86938974/183346335-13bb400a-b4c6-4896-916a-d7f3f1907a13.png)
 ####
+
+## 형상 관리
+***
+####
+2022-08-08
+    심대성(tony) : Node 고정, Node 변함 ERD 구상, 작성
+    이아연(judy) : Disk 고정, Disk 변함 ERD 구상, 작성
+    김용후(felix) : Cpu, Gpu 고정, Gpu 변화 ERD 구상, 
+#
