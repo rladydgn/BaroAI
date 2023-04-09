@@ -19,7 +19,8 @@
 
 ## ERD 구상
 ***
-![image](https://user-images.githubusercontent.com/86938974/184828840-4e809d19-8a34-430c-8523-9ccdb122667d.png)
+![캡처](https://user-images.githubusercontent.com/39542757/230769390-925da934-d38a-4f52-b8a6-e710652cff01.PNG)
+
 ####
 
 ## 형상 관리
